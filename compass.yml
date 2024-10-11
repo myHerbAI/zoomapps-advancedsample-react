@@ -1,0 +1,16 @@
+name: zoomapps-advancedsample-react
+id: ari:cloud:compass:67089d24-a808-43fc-b21a-7240e68803c5:component/7650235b-1fb9-4e21-b2a8-9f79047496f0/754a3498-8d36-40b4-9cc4-6379227bb654
+description: This repository contains an Advanced Zoom Apps Sample. It should serve as a starting point for you to build and test your own Zoom App in development.
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/myHerbAI/zoomapps-advancedsample-react
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
